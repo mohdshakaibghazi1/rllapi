@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/TvzFyMv1/mjspumqu/4F7w6NJlGoAm/ZUkvUjlSMhY=",
+  "Source": "RllApi",
+  "BasePath": "_content/RllApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RllApi\\wwwroot",
+      "Source": "RllApi",
+      "ContentRoot": "D:\\TestingPhase3\\RLL\\RllApi\\RllApi\\wwwroot\\",
+      "BasePath": "_content/RllApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
